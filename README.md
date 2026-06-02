@@ -5,12 +5,12 @@
 
 <div align="center">
 <h1>
-Skinnymuz
+SkinnyMuz: Zero
 </h1>
 <p>Самостоятельная кроссплатформенная программа для музыки</p>
 <p>
 ⦁︎
-<a href="https://github.com/osankasamka/skinnymuz/releases">Релизы</a>
+<a href="https://github.com/angelaskinny/skinnymuz/releases">Релизы</a>
 ⦁︎
 </p>
 <p>
@@ -19,10 +19,10 @@ Skinnymuz
 </div>
 
 
-Что такое Skinnymuz?
+Что такое Skinnymuz: Zero?
 ------------------
 
-Skinnymuz — это открытая, кроссплатформенная цифровая аудио-рабочая станция для делания музыки. Тут есть продвинутый Piano Roll, Beat Sequencer, Song Editor и Mixer для сочинения, аранжировки и сведения музыки. Внутри уже есть 15+ синтезаторных плагинов, плюс поддержка VST2 и SoundFont2.
+Skinnymuz: Zero — это открытая, кроссплатформенная цифровая аудио-рабочая станция для делания музыки. Тут есть продвинутый Piano Roll, Beat Sequencer, Song Editor и Mixer для сочинения, аранжировки и сведения музыки. Внутри уже есть 15+ синтезаторных плагинов, плюс поддержка VST2 и SoundFont2.
 
 Особенности
 --------
